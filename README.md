@@ -1,4 +1,4 @@
-## Hi there Welcome to my GitHub profile! I'm Srikar Vemana, a passionate System Administrator and Business Systems Analyst with a strong background in RPA Development, IT Support, and Software Engineering.👋
+## Welcome to my GitHub profile! I'm Srikar Vemana, a passionate System Administrator and Business Systems Analyst with a strong background in RPA Development, IT Support, and Software Engineering.👋
 
 <!--
 **Srivemana/Srivemana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
