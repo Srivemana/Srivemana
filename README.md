@@ -43,9 +43,9 @@ I have a strong background in **automation, IT support, and system administratio
 ---
 
 ## 📫 How to reach me  
-💼 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
-🌐 **Portfolio/Website:** [yourwebsite.com](#)  
+💼 **Email:** vemanasrikar53@gmail.com
+🔗 **LinkedIn:** www.linkedin.com/in/srikar-vemana-lead
+🌐 **Portfolio/Website:** Inprogress
 
 ---
 
